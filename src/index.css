@@ -1,0 +1,7 @@
+:root {
+  --sizing-10: 10px;
+
+  --spacing-xl: 64px;
+  --radii-sm: var(--sizing-10);
+  --spacing-sm: var(--sizing-10);
+}
